@@ -6,11 +6,11 @@
 ## Screenshots
 
 <s align="left">
-  <img src="https://cdn.discordapp.com/attachments/1025714624810717207/1033422572769001502/unknown.png" height="188" width="309">
+  <img src="https://cdn.discordapp.com/attachments/1025714624810717207/1033422572769001502/unknown.png" height="188" width="359">
 </s>
 
  <s align="right">
-  <img src="https://cdn.discordapp.com/attachments/1025714624810717207/1033422770110996580/unknown.png" height="188" width="309">
+  <img src="https://cdn.discordapp.com/attachments/1025714624810717207/1033422770110996580/unknown.png" height="188" width="359">
 </s>
 
 ## What Does It Do?  <img src="https://cdn3.emoji.gg/emojis/7073-hmmm.png" width="30px"/>
